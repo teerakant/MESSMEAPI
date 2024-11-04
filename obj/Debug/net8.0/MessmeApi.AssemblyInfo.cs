@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MessmeApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf5fc7e941ae7c139fcbe917b140bb8dfb086293")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c4f52d8697c20eb46965c32404ef90b6207718")]
 [assembly: System.Reflection.AssemblyProductAttribute("MessmeApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MessmeApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
