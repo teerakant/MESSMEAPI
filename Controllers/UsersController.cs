@@ -24,7 +24,7 @@ public class UsersController : ControllerBase
     {
         var users = await _userRepository.GetUsers();
         var userDtos = _mapper.Map<IEnumerable<UserDto>>(users);
-        return Ok(users);
+        return Ok(userDtos);
     }
 
 
