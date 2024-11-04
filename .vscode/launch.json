@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "C#: MessmeApi [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MessmeApi.csproj"
+        },
+        {
+            "name": "C#: MessmeApi [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\MessmeApi.csproj"
+        }
+    ]
+}
