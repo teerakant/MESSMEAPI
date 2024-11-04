@@ -1,0 +1,72 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+
+# Visual Studio Code files
+.vscode/
+.vscode/*
+
+# Rider Files
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Files
+**/*.swp
+project.lock.json
+project.fragment.lock.json
+
+# Microsoft Azure Web App publish folder
+.publish/
+
+# Publish output
+publish/
+
+# Uncomment if you have VS Code extensions that store configurations in your workspace
+# .vscode/
+
+# Uncomment if you use a .NET Core .csproj file
+**/*.deps.json
+**/*.runtimeconfig.json
+
+# Mono auto generated files
+mono_crash.*
+
+# Enable git-crypt for sensitive files
+.git-crypt/
+
+# Azure Functions settings
+local.settings.json
+
+# Docker and Kubernetes
+Dockerfile
+docker-compose*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
